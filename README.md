@@ -2,5 +2,5 @@
 
 ## 1. Crear un archivo en "tmp" llamado "mi prueba"
 
-´cd tmp´
-´touch miprueba'
+`cd tmp`
+`touch miprueba`
